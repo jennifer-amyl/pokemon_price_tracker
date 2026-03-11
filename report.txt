@@ -1,0 +1,20 @@
+Pokemon Card Price Tracker Report
+================================
+
+Total paid: £149.00
+Current value: £166.50
+Total profit/loss: £17.50
+
+Best performing card:
+Magikarp (Paldea Evolved) - £17.00
+
+Worst performing card:
+Gardevoir ex (Paldean Fates) - £-3.00
+
+Full card breakdown:
+        Card            Set  PurchasePrice  CurrentPrice  Quantity  Total Paid (£)  Total Current Value (£)  Profit / Loss (£)  Percent Change (%)
+      Mew ex            151           18.0          24.0         1            18.0                     24.0                6.0           33.333333
+  Charmander            151           12.0          10.5         1            12.0                     10.5               -1.5          -12.500000
+    Magikarp Paldea Evolved           85.0         102.0         1            85.0                    102.0               17.0           20.000000
+     Pikachu          Promo            6.0           5.5         2            12.0                     11.0               -1.0           -8.333333
+Gardevoir ex  Paldean Fates           22.0          19.0         1            22.0                     19.0               -3.0          -13.636364
