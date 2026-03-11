@@ -16,6 +16,7 @@ A Python project for tracking Pokémon card purchase prices, current values, and
 
 ```bash
 py tracker.py
+```
 
 ## Using eBay CSV Export
 
